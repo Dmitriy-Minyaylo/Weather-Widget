@@ -1,0 +1,10 @@
+.city-title {
+	display: flex;
+	width: 380px;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.btn {
+	height: 32px;
+}
